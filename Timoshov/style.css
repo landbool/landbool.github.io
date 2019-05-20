@@ -35,9 +35,8 @@ main {
 }
 
 main img {
-    
     width: 380px;
-    padding-bottom: 3%;
+    border: 2px solid;
 }
 
 main p {
