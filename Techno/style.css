@@ -1,0 +1,177 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.footer {
+    height: 100px;
+    background: #e2e2e2;
+    position: relative;
+}
+
+.menuh {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+
+ul.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+.short {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.short:first-letter {
+    font-family: arial;
+    color: red;
+    font-size: 24px;
+
+}
+
+
+.list {
+    list-style: circle;
+}
+
+input {
+    width: 180px;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+
+label {
+    width: 100px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.menu a:hover {
+    color: #f9be22;
+}
+
+.logo {
+    width: 50px;
+    position: absolute;
+    top: 8px;
+    left: 15px;
+}
+
+input.email:focus {
+    color: green;
+    border: 2px solid red;
+}
+
+input[type="text"] {
+    text-transform: capitalize;
+}
+
+.table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 40px;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.iphonex {
+    outline: 3px solid black;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+
+.iphonex:hover {
+    outline: none;
+}
+
+.table1 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.thone {
+    height: 50px;
+}
+
+.header {
+    position: relative;
+    background: #5b3c67;
+    padding: 5px;
+    margin-bottom: 20px
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.footertext {
+    float: right;
+    margin: 40px 40px 0 0;
+}
+
+
+.floatnone {
+    clear: both;
+}
+
+.info {
+    position: relative;
+}
+
+.buy {
+    font-size: 30px;
+    background: #febe22;
+    border: 1px solid #febe22;
+    border-radius: 5px;
+    color: #5b3c67;
+    position: absolute;
+    top: 520px;
+    left: 20px;
+    outline: none;!important
+}
+
+.buy:hover {
+    box-shadow: 0 0 10px;
+    outline: none;!important
+}
+
+.buy:active {
+    box-shadow: 0 0 15px;
+    background: #ffaa0f;
+    border: 1px solid #ffaa0f;
+    outline: none;!important
+}
+
+
+
+.phone {
+    margin: 1%;
+}
