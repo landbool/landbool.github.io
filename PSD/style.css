@@ -406,3 +406,13 @@ body {
     top: 469px;
     left: 98px;
 }
+
+.alist:hover {
+    border-bottom: 2px solid #212121;
+    color: #212121;
+}
+
+.orderus:hover {
+    background: #f0f0f0;
+    box-shadow: 0 4px 10px 2px rgba(33, 33, 33, 0.35);
+}
