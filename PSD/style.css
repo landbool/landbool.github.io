@@ -175,6 +175,7 @@ body {
 .mainimg {
     margin-top: 50px;
     margin-left: 98px;
+    opacity: 0.9;
 }
 
 .arrow1 {
@@ -346,4 +347,62 @@ body {
 
 .slider3 {
     margin: 0 0 0 98px;
+}
+
+.slider4 {
+    margin-top: 120px;
+    height: 800px;
+    background-image: url(img/slider.png);
+    position: relative;
+}
+
+.container4 {
+    width: 1336px;
+    margin: 0 auto;
+}
+
+.slider-circle1 {
+    position: absolute;
+    width: 1336px;
+    bottom: 19px;
+    text-align: center;
+}
+
+.seat {
+    width: 468px;
+    color: #6c6c6c;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    position: absolute;
+    top: 399px;
+    left: 98px;
+}
+
+.hot {
+    color: #e53935;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    position: absolute;
+    top: 287px;
+    left: 99px;
+}
+
+.content1 {
+    color: #212121;
+    font-size: 55px;
+    line-height: 72px;
+    text-transform: uppercase;
+    font-weight: 100;
+    position: absolute;
+    top: 322px;
+    left: 106px;
+}
+
+.order-position {
+    position: absolute;
+    top: 469px;
+    left: 98px;
 }
