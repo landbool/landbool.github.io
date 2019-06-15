@@ -407,12 +407,184 @@ body {
     left: 98px;
 }
 
-.alist:hover {
-    border-bottom: 2px solid #212121;
+.container5 {
+    margin: 0 auto;
+    width: 1366px;
+}
+
+.slider5 {
+    width: 1366px;
+    position: relative;
+}
+
+.header5 {
+    margin-top: 120px;
+    margin-left: 98px;
+    margin-right: 98px;
+}
+
+.lg {
+    float: left;
+}
+
+.product-sm {
+    margin-left: 27px;
+    margin-bottom: 27px;
+}
+
+.exclusive-position {
+    position: absolute;
+    top: 186px;
+    left: 129px;
+}
+
+.Fishnet-position {
+    position: absolute;
+    top: 217px;
+    left: 130px;
+}
+
+.matt-position {
+    width: 339px;
+    position: absolute;
+    top: 269px;
+    left: 128px;
+}
+
+.orderus-position-3 {
+    position: absolute;
+    top: 339px;
+    left: 128px;
+}
+
+.container6 {
+    margin: 0 auto;
+    width: 1366px;
+}
+
+.slider6 {
+    position: relative;
+}
+
+.header6 {
+    margin-top: 93px;
+}
+
+.mobile {
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    position: absolute;
+    top: 125px;
+    left: 99px;
+}
+
+.find-follow-favorite {
+    width: 472px;
+    color: #212121;
+    font-size: 62px;
+    font-weight: 100;
+    line-height: 72px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 160px;
+    left: 106px;
+}
+
+.save-style {
+    width: 428px;
+    color: #6c6c6c;
+    font-size: 22px;
+    font-weight: 300;
+    position: absolute;
+    top: 302px;
+    left: 99px;
+}
+
+.app-store {
+    position: absolute;
+    top: 356px;
+    left: 98px;
+}
+
+.google-play {
+    position: absolute;
+    top: 356px;
+    left: 243px;
+}
+
+.contact-us-text {
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    position: absolute;
+    top: 120px;
+    left: 99px;
+}
+
+.contacts-address {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    position: absolute;
+    top: 157px;
+    left: 97px;
+}
+
+.footer {
+    width: 1366px;
+    height: 384px;
+    margin: 0 auto;
+}
+
+.slider7 {
+    position: relative;
+}
+
+.useful-info-text {
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    position: absolute;
+    top: 120px;
+    left: 399px;
+}
+
+.sales-delivery {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    position: absolute;
+    top: 158px;
+    left: 398px;
+}
+
+.architect-returns {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    position: absolute;
+    top: 158px;
+    left: 633px;
+}
+
+.architect {
+    text-decoration: none;
     color: #212121;
 }
 
-.orderus:hover {
-    background: #f0f0f0;
-    box-shadow: 0 4px 10px 2px rgba(33, 33, 33, 0.35);
+.sales-a {
+    text-decoration: none;
+    color: #212121;
 }
